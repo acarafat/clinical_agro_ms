@@ -1,0 +1,89 @@
+fullstrain	strain	biosample	sample_type	host	isolation_source	isolation-date	short_location	full_location	extra	genome
+Agrobacterium_pusense_AP-261	AP-261		clinical	Homo sapiens			USA			AP_261
+Agrobacterium_pusense_AP-262	AP-262		clinical	Homo sapiens			USA			AP_262
+Agrobacterium_pusense_76	76	SAMN14930919	other	Fusarium oxysporum f. sp. cucumerinum	hyphae	2017	China	China: Beijing	(endosymbiont-associated)	Agrobacterium_pusense_76
+Agrobacterium_pusense_17-1009	17-1009	SAMN14165621	plant	Pentas		2017				Agrobacterium_pusense_17_1009
+Agrobacterium_sp_33MFTa1.1	33MFTa1.1	SAMN02841138	plant	Thlaspi arvense		2010	USA	"USA: Chapel Hill, North Carolina"		Agrobacterium_sp_33MFTa1_1
+Agrobacterium_sp_33MFTa1.1_ASM432849v1	33MFTa1.1_ASM432849v1	SAMN10967130	plant	Thlaspi arvense		2010	USA	"USA: Chapel Hill, North Carolina"		Agrobacterium_sp_33MFTa1_1_ASM432849v1
+Agrobacterium_pusense_973_Rhizob3	973_Rhizob3	SAMN33926748	other	Nostoc sp. FACHB-973	freshwater	2020	China	China	(freshwater phyllosphere)	Agrobacterium_pusense_973_Rhizob3
+Agrobacterium_sp_Bin.012_Pasture	Bin.012_Pasture	SAMN29921386	soil		pasture soil	2015	Brazil	Brazil: Eastern Amazon		Agrobacterium_sp_Bin_012_Pasture
+Agrobacterium_pusense_CC001	CC001	SAMN12610078	plant	walnut		2007	USA	USA: California		Agrobacterium_pusense_CC001
+Agrobacterium_pusense_CC134	CC134	SAMN18245306	plant	sorghum			USA	USA: Nebraska		Agrobacterium_pusense_CC134
+Agrobacterium_pusense_CCGM10	CCGM10	SAMN04296913	plant	Phaseolus vulgaris		2014	Mexico	Mexico: Morelos		Agrobacterium_pusense_CCGM10
+Agrobacterium_pusense_CCGM11	CCGM11	SAMN05301008	plant	Phaseolus vulgaris	nodule	2014	Mexico	Mexico:Morelos		Agrobacterium_pusense_CCGM11
+Agrobacterium_genomosp_CFBP_5494	CFBP_5494	SAMEA3722807	clinical	Homo sapiens	bloodstream	<1984	France	France		Agrobacterium_genomosp_CFBP_5494
+Agrobacterium_pusense_CFBP5496	CFBP5496	SAMN11489448	clinical	Homo sapiens	urine	<1984	France	France		Agrobacterium_pusense_CFBP5496
+Agrobacterium_pusense_CFBP5875	CFBP5875	SAMN11489452	other		septic tank water	1952	Belgium	Belgium	(septic tank water)	Agrobacterium_pusense_CFBP5875
+Agrobacterium_pusense_CNPSo_3352	CNPSo_3352	SAMN13190956	plant	Glycine max	nodules	2013	Mozambique	Mozambique		Agrobacterium_pusense_CNPSo_3352
+Agrobacterium_sp_FDAARGOS_525	FDAARGOS_525	SAMN10163219	clinical	Homo sapiens	Right eye swab	2016	USA	USA: DC		Agrobacterium_sp_FDAARGOS_525
+Agrobacterium_pusense_FDAARGOS_618	FDAARGOS_618	SAMN11056333	clinical	Homo sapiens	clinical isolate		USA	USA: MI		Agrobacterium_pusense_FDAARGOS_618
+Agrobacterium_pusense_FDAARGOS_619	FDAARGOS_619	SAMN11056334	clinical	Homo sapiens	clinical isolate		USA	USA: MI		Agrobacterium_pusense_FDAARGOS_619
+Agrobacterium_pusense_FDAARGOS_633	FDAARGOS_633	SAMN11056348	clinical	Homo sapiens	clinical isolate		USA	USA: KY		Agrobacterium_pusense_FDAARGOS_633
+Agrobacterium_pusense_GD03648	GD03648	SAMN30525104	built environment		sink drain	2018	USA	USA		Agrobacterium_pusense_GD03648
+Agrobacterium_pusense_GD03663	GD03663	SAMN30525119	built environment		sink basin	2018	USA	USA		Agrobacterium_pusense_GD03663
+Agrobacterium_pusense_GD03874	GD03874	SAMN30525330	built environment		sink drain	2018	USA	USA		Agrobacterium_pusense_GD03874
+Agrobacterium_pusense_GD03880	GD03880	SAMN30525336	hospital environment		sink drain	2018	USA	USA		Agrobacterium_pusense_GD03880
+Agrobacterium_pusense_GD03943	GD03943	SAMN30525399	built environment		sink basin	2018	Pakistan	Pakistan		Agrobacterium_pusense_GD03943
+Agrobacterium_pusense_GD03981	GD03981	SAMN30525437	built environment		sink basin	2018	USA	USA		Agrobacterium_pusense_GD03981
+Agrobacterium_pusense_GD03982	GD03982	SAMN30525438	built environment		sink drain	2018	USA	USA		Agrobacterium_pusense_GD03982
+Agrobacterium_pusense_GD04154	GD04154	SAMN30525610	built environment		sink drain	2018	Pakistan	Pakistan		Agrobacterium_pusense_GD04154
+Rhizobium_sp_GHKF11	GHKF11	SAMN04500979	soil		soil	2011	USA	"USA: Pecan Grove, Texas"		Rhizobium_sp_GHKF11
+Agrobacterium_pusense_GV2	GV2	SAMN34135173	other		laboratory contaminant from a culture of Gloeobacter violaceus	2021	USA	USA: Hawaii	(laboratory contaminant)	Agrobacterium_pusense_GV2
+Rhizobium_sp_H41	H41	SAMN02863109	terrestrial		surface of weathered rock	2011	China	China		Rhizobium_sp_H41
+Agrobacterium_pusense_HU21	HU21	SAMN17390261	plant	Cajanus cajan	root	2017	India	"India: Shankarpally, Rangareddy, Telangana"		Agrobacterium_pusense_HU21
+Agrobacterium_pusense_HU37	HU37	SAMN17390266	plant	Cajanus cajan	root	2017	India	"India: K. J. Mahal, Khammam, Telangana"		Agrobacterium_pusense_HU37
+Agrobacterium_pusense_HU39	HU39	SAMN17390267	plant	Cajanus cajan	root	2017	India	"India: Rangampet, Medak, Telangana"		Agrobacterium_pusense_HU39
+Agrobacterium_pusense_HU55	HU55	SAMN17390271	plant	Cajanus cajan	root	2017	India	"India: Ghanapur, Medak, Telangana"		Agrobacterium_pusense_HU55
+Agrobacterium_pusense_HU57	HU57	SAMN17390273	plant	Cajanus cajan	root	2017	India	"India: Mokhila, Rangareddy, Telangana"		Agrobacterium_pusense_HU57
+Agrobacterium_pusense_HU59	HU59	SAMN17390274	plant	Cajanus cajan	root	2017	India	"India: Koyyagarupadu, Krishna, Telangana"		Agrobacterium_pusense_HU59
+Agrobacterium_sp_InxBP2	InxBP2	SAMN20718506	soil		agricultural soil	2019	India	India: Varanasi		Agrobacterium_sp_InxBP2
+Agrobacterium_pusense_IRBG74	IRBG74	SAMEA3138824	plant		nitrogen fixing symbiont of legumes		Philippines	Philippines		Agrobacterium_pusense_IRBG74
+Agrobacterium_pusense_KCJK7997	KCJK7997	SAMN08887232	animal	cattle		2017	USA	USA:Florida		Agrobacterium_pusense_KCJK7997
+Rhizobium_sp_LMB-1	LMB-1	SAMN03396664	soil		greenhouse soil	2014	China	"China: Shanghai, Nanjing"		Rhizobium_sp_LMB_1
+Agrobacterium_pusense_LMG_25623	LMG_25623	SAMN05421750	plant		rhizosphere of chickpea	<2011	India	India		Agrobacterium_pusense_LMG_25623
+Agrobacterium_pusense_MGBC108980	MGBC108980	SAMEA112382790	clinical		feces		China	China		Agrobacterium_pusense_MGBC108980
+Agrobacterium_tumefaciens_iMGMC-16_1678881632	MGMC-16_1678881632	SAMEA112815524	animal		mouse gut metagenome					Agrobacterium_tumefaciens_iMGMC_16_1678881632
+Agrobacterium_tumefaciens_MH-0-3_111223.53_1677754698	MH-0-3_111223.53_1677754698	SAMEA112715131	animal		mouse gut metagenome	2012	China	China		Agrobacterium_tumefaciens_MH_0_3_111223_53_1677754698
+Agrobacterium_tumefaciens_MH-0-5_111223.17_1677754708	MH-0-5_111223.17_1677754708	SAMEA112715152	animal		mouse gut metagenome	2012	China	China		Agrobacterium_tumefaciens_MH_0_5_111223_17_1677754708
+Agrobacterium_sp_MS2	MS2	SAMN09428740	soil		Diesel-contaminated pilot plant	2011	Spain	Spain: Granada		Agrobacterium_sp_MS2
+Agrobacterium_pusense_NRCPB10	NRCPB10	SAMN06074345	plant		rhizosphere of chickpea	2015	India	"India: New Delhi, Pusa"		Agrobacterium_pusense_NRCPB10
+Rhizobium_sp_P007	P007	SAMEA5739411	other		"deep-subseafloor sediments retrieved at the site 1225 of the Ocean Drilling Program (ODP) 3760m below the sea surface during ODP Leg 201 (DHondtet al., 2004; DOI: 10.1126/science.1101155)"	2004	Pacific Ocean	Pacific Ocean	(subseafloor sediment)	Rhizobium_sp_P007
+Rhizobium_sp_RAS22	RAS22	SAMN12024065	plant		plants in desert environments					Rhizobium_sp_RAS22
+Agrobacterium_sp_RC10-4-1	RC10-4-1	SAMN12024130	plant		plant roots		USA	USA		Agrobacterium_sp_RC10_4_1
+Agrobacterium_pusense_RpEC2071	RpEC2071	SAMN17916052	soil		soil surrounding the roots of peanut plants	2020	China	China:Guangzhou		Agrobacterium_pusense_RpEC2071
+Agrobacterium_pusense_S1	S1	SAMN08637632	clinical	Homo sapiens	bloodstream	2016	USA	"USA: Stanford, CA"		Agrobacterium_pusense_S1
+Agrobacterium_sp_S2	S2	SAMN08637633	clinical	Homo sapiens	bloodstream	2016	USA	"USA: Stanford, CA"		Agrobacterium_sp_S2
+Rhizobium_sp_S2_005_001_R1_24	S2_005_001_R1_24	SAMN07426524	hospital environment		hospital NICU surfaces and sink samples	2014	USA	"USA: Pittsburgh, Pennsylvania Magee Womens Hospital"		Rhizobium_sp_S2_005_001_R1_24
+Agrobacterium_pusense_S2	S2_2	SAMN08637633	clinical	Homo sapiens	bloodstream	2016	USA	"USA: Stanford, CA"		Agrobacterium_pusense_S2
+Rhizobium_sp_S41	S41	SAMN05323143	terrestrial		less and more altered tuff	2010	China	China: Yingtan in Jiangxi Province		Rhizobium_sp_S41
+Agrobacterium_pusense_SCN18_30_10_14_R3_B_60_7	SCN18_30_10_14_R3_B_60_7	SAMN18061466	other		biofilm fraction from bioreactor innoculated with Activated Sludge Tailings Effluent Remediation (ASTER); culture conditions: molasses with increasing thiocyanate until 250 mg/L maintanence and no molasses	2014	South Africa	South Africa: Capetown	(bioreactor)	Agrobacterium_pusense_SCN18_30_10_14_R3_B_60_7
+Agrobacterium_pusense_ST15.13.056	ST15.13.056	SAMN32316883	plant	Solanum lycopersicum	Hydroponic greenhouse	2014	Belgium	"Belgium: Sint-Katelijne-Waver, greenhouse 8"		Agrobacterium_pusense_ST15_13_056
+Agrobacterium_pusense_SX41	SX41	SAMN19663983	terrestrial		weathered tuff	2010	China	"China: Yingtan, Jiangxi Province"		Agrobacterium_pusense_SX41
+Agrobacterium_sp_UBA11112	UBA11112	SAMN08018233	built environment		"terrestrial, New York City MTA subway"		USA	USA:New York City		Agrobacterium_sp_UBA11112
+Agrobacterium_sp_UBA11724	UBA11724	SAMN08020137	built environment		"terrestrial, New York City MTA subway"		USA	USA:New York City		Agrobacterium_sp_UBA11724
+Agrobacterium_tumefaciens_UBA2572	UBA2572	SAMN06451786	built environment		"metal, New York City MTA subway"		USA	USA:New York City		Agrobacterium_tumefaciens_UBA2572
+Rhizobium_sp_UR51a	UR51a	SAMN03288143	plant	Oryza sativa L.	rice roots	2011	Brazil	"Brazil: Rio Grande do Sul, Uruguaiana"		Rhizobium_sp_UR51a
+Rhizobium_sp_Y9	Y9	SAMN05958282	other	Veronaeopsis simplex Y34		2014	Japan	Japan	(endosymbiont-associated)	Rhizobium_sp_Y9
+Agrobacterium_pusense_ZB01	ZB01	SAMN28462993	soil		Seaside Soil	2019	China	China		Agrobacterium_pusense_ZB01
+Rhizobium_sp_ZX09	ZX09	SAMN06130966	soil		soil	2013	China	China		Rhizobium_sp_ZX09
+Agrobacterium_pusense_Inst3_Iso5_2019	Inst3_Iso5_2019	SAMEA6798304	clinical	Homo sapiens	Blood culture	2019	Switzerland	Switzerland		Inst3_Iso5_2019
+Agrobacterium_pusense_Inst3_Iso4_2015	Inst3_Iso4_2015	SAMEA6798303	clinical	Homo sapiens	Blood culture	2015	Switzerland	Switzerland		Inst3_Iso4_2015
+Agrobacterium_pusense_Inst3_Iso3_2014	Inst3_Iso3_2014	SAMEA6798302	clinical	Homo sapiens	Blood culture	2014	Switzerland	Switzerland		Inst3_Iso3_2014
+Agrobacterium_pusense_Inst3_Iso2_2014	Inst3_Iso2_2014	SAMEA6798301	clinical	Homo sapiens	Blood culture	2014	Switzerland	Switzerland		Inst3_Iso2_2014
+Agrobacterium_pusense_Inst3_Iso1_2009	Inst3_Iso1_2009	SAMEA6798300	clinical	Homo sapiens	Blood culture	2019	Switzerland	Switzerland		Inst3_Iso1_2009
+Agrobacterium_pusense_Inst7_Iso2_2016	Inst7_Iso2_2016	SAMEA6798298	clinical	Homo sapiens	Blood culture	2016	Switzerland	Switzerland		Inst7_Iso2_2016
+Agrobacterium_pusense_Inst7_Iso1_2012	Inst7_Iso1_2012	SAMEA6798297	clinical	Homo sapiens	Blood culture	2012	Switzerland	Switzerland		Inst7_Iso1_2012
+Agrobacterium_pusense_Inst2_Iso2_2017	Inst2_Iso2_2017	SAMEA6798296	clinical	Homo sapiens	Blood culture	2017	Switzerland	Switzerland		Inst2_Iso2_2017
+Agrobacterium_pusense_Inst2_Iso1_2014	Inst2_Iso1_2014	SAMEA6798295	clinical	Homo sapiens	Blood culture	2014	Switzerland	Switzerland		Inst2_Iso1_2014
+Agrobacterium_pusense_Inst1_Iso1_2014	Inst1_Iso1_2014	SAMEA6798294	clinical	Homo sapiens	Blood culture	2014	Switzerland	Switzerland		Inst1_Iso1_2014
+Agrobacterium_pusense_Inst6_Iso11_2018	Inst6_Iso11_2018	SAMEA6798293	clinical	Homo sapiens	Blood culture	2018	Switzerland	Switzerland		Inst6_Iso11_2018
+Agrobacterium_pusense_Inst6_Iso10_2018	Inst6_Iso10_2018	SAMEA6798292	clinical	Homo sapiens	Blood culture	2018	Switzerland	Switzerland		Inst6_Iso10_2018
+Agrobacterium_pusense_Inst6_Iso9_2017	Inst6_Iso9_2017	SAMEA6798291	clinical	Homo sapiens	Blood culture	2017	Switzerland	Switzerland		Inst6_Iso9_2017
+Agrobacterium_pusense_BWH_1514_R_rad	BWH_1514_R_rad	SAMN37516874	clinical	Homo sapiens	blood	2023	USA	USA:Boston		BWH_1514_R_rad
+Agrobacterium_pusense_BWH_80_R_rad	BWH_80_R_rad	SAMN36728934	clinical	Homo sapiens	Eye secretions	2022	USA	USA:Boston		BWH_80_R_rad
+Agrobacterium_pusense_DTU_2020_1000670_1_SI_DNK_HVI_038	DTU_2020_1000670_1_SI_DNK_HVI_038	SAMEA111504294	clinical	Homo sapiens	urine	2020	Denmark	Denmark		DTU_2020_1000670_1_SI_DNK_HVI_038
+Agrobacterium_pusense_iMGMC-16_1678881632	iMGMC-16_1678881632	SAMEA112815524	animal	mouse	mouse gut metagenome					Agrobacterium_tumefaciens_iMGMC_16_1678881632
+Agrobacterium_pusense_S33	S33	SAMN04423123	soil		soil	2010	China	China:Jinan		Agrobacterium_tumefaciens_S33
+Agrobacterium_pusense_SORGH_AS260	SORGH_AS260	SAMN34265328	plant	sorghum	sorghum phyllosphere					Rhizobium_sp_SORGH_AS260
+Agrobacterium_pusense_SORGH_AS285	SORGH_AS285	SAMN34265309	plant	sorghum	sorghum phyllosphere					Rhizobium_sp_SORGH_AS285
+Agrobacterium_pusense_SORGH_AS_755	SORGH_AS_755	SAMN34265296	plant	sorghum	sorghum phyllosphere		USA	USA:Texas		Rhizobium_sp_SORGH_AS_755
